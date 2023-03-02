@@ -1,0 +1,33 @@
+C:\Users\Jade\source\repos\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\bin\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.exe
+C:\Users\Jade\source\repos\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\bin\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.deps.json
+C:\Users\Jade\source\repos\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\bin\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.runtimeconfig.json
+C:\Users\Jade\source\repos\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\bin\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.runtimeconfig.dev.json
+C:\Users\Jade\source\repos\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\bin\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.dll
+C:\Users\Jade\source\repos\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\bin\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.pdb
+C:\Users\Jade\source\repos\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\obj\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.csprojAssemblyReference.cache
+C:\Users\Jade\source\repos\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\obj\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.AssemblyInfoInputs.cache
+C:\Users\Jade\source\repos\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\obj\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.AssemblyInfo.cs
+C:\Users\Jade\source\repos\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\obj\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.dll
+C:\Users\Jade\source\repos\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\obj\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.pdb
+C:\Users\Jade\Desktop\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\bin\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.exe
+C:\Users\Jade\Desktop\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\bin\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.deps.json
+C:\Users\Jade\Desktop\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\bin\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.runtimeconfig.json
+C:\Users\Jade\Desktop\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\bin\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.runtimeconfig.dev.json
+C:\Users\Jade\Desktop\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\bin\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.dll
+C:\Users\Jade\Desktop\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\bin\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.pdb
+C:\Users\Jade\Desktop\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\obj\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.csprojAssemblyReference.cache
+C:\Users\Jade\Desktop\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\obj\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.AssemblyInfoInputs.cache
+C:\Users\Jade\Desktop\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\obj\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.AssemblyInfo.cs
+C:\Users\Jade\Desktop\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\obj\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.dll
+C:\Users\Jade\Desktop\Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\obj\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.pdb
+C:\Users\Jade\Desktop\Portfolio Things\AI Battleship\Battlehship Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\bin\Debug\netcoreapp3.1\Battleship.exe
+C:\Users\Jade\Desktop\Portfolio Things\AI Battleship\Battlehship Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\bin\Debug\netcoreapp3.1\Battleship.deps.json
+C:\Users\Jade\Desktop\Portfolio Things\AI Battleship\Battlehship Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\bin\Debug\netcoreapp3.1\Battleship.runtimeconfig.json
+C:\Users\Jade\Desktop\Portfolio Things\AI Battleship\Battlehship Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\bin\Debug\netcoreapp3.1\Battleship.runtimeconfig.dev.json
+C:\Users\Jade\Desktop\Portfolio Things\AI Battleship\Battlehship Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\bin\Debug\netcoreapp3.1\Battleship.dll
+C:\Users\Jade\Desktop\Portfolio Things\AI Battleship\Battlehship Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\bin\Debug\netcoreapp3.1\Battleship.pdb
+C:\Users\Jade\Desktop\Portfolio Things\AI Battleship\Battlehship Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\obj\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.csprojAssemblyReference.cache
+C:\Users\Jade\Desktop\Portfolio Things\AI Battleship\Battlehship Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\obj\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.AssemblyInfoInputs.cache
+C:\Users\Jade\Desktop\Portfolio Things\AI Battleship\Battlehship Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\obj\Debug\netcoreapp3.1\Jade Harris 11SDD Assignment.AssemblyInfo.cs
+C:\Users\Jade\Desktop\Portfolio Things\AI Battleship\Battlehship Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\obj\Debug\netcoreapp3.1\Battleship.dll
+C:\Users\Jade\Desktop\Portfolio Things\AI Battleship\Battlehship Jade Harris 11SDD Assignment\Jade Harris 11SDD Assignment\obj\Debug\netcoreapp3.1\Battleship.pdb
