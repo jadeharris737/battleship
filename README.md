@@ -6,7 +6,7 @@ Not currently maintained or updated since 2020.
 
 # comments
 Naming conventions do not follow lower and upper camelcase structure followed now. 
-<br />In retrospect, meaningful identifiers would have been used.
+<br />In retrospect, more meaningful identifiers would have been used.
 
 # startup
 Upload files into Visual Studio 2019. The .vs file should generate appropriately. <br />
