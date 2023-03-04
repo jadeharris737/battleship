@@ -5,7 +5,8 @@ Showcases focus on intrinsic documentation and concepts such as an uncluttered m
 Not currently maintained or updated since 2020.
 
 # comments
-Naming conventions do not follow lower and upper camelcase structure followed now. Also, in retrospect, more meaningful identifiers would have been used.
+Naming conventions do not follow lower and upper camelcase structure followed now. 
+<br />In retrospect, meaningful identifiers would have been used.
 
 # startup
 Upload files into Visual Studio 2019. The .vs file should generate appropriately. <br />
